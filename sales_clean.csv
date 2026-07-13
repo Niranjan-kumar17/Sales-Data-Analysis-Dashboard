@@ -1,0 +1,2 @@
+Order_ID,Order_Date,Ship_Date,Year,Month,Quarter,Customer_ID,Customer_Name,Segment,Country,State,City,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Delivery_Days,Profit_Margin,Payment_Mode,Ship_Mode
+ORD05000,2023-07-10,2023-07-17,2023,July,3,CUST8657,Rahul,Home Office,India,Karnataka,Bengaluru,South,Technology,Printer,Printer,4095.38,7,0,106.48,7,2.600002930131026,Debit Card,Same Day
