@@ -4,6 +4,7 @@
 - Python (Pandas, NumPy)
 - SQL
 - Power BI
+- Excel
   
 
 # Project Overview
